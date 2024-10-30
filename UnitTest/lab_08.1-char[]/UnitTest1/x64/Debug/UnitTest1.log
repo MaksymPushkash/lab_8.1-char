@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\admin\Desktop\lab_8.1-char[]\UnitTest\lab_08.1-char[]\lab_08.1-char[]\lab_08.1-char[].cpp(42,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\admin\Desktop\lab_8.1-char[]\UnitTest\lab_08.1-char[]\lab_08.1-char[]\lab_08.1-char[].cpp(59,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest1.cpp')
+  

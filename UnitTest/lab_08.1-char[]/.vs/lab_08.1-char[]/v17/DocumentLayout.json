@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\lab_8.1-char[]\\UnitTest\\lab_08.1-char[]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{094A5699-4FA2-43FC-9CD5-D12BDD8FDF0B}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\admin\\Desktop\\lab_8.1-char[]\\UnitTest\\lab_08.1-char[]\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{094A5699-4FA2-43FC-9CD5-D12BDD8FDF0B}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BB984A-E867-4A75-A2FB-2CD1505F7597}|lab_08.1-char[]\\lab_08.1-char[].vcxproj|C:\\Users\\admin\\Desktop\\lab_8.1-char[]\\UnitTest\\lab_08.1-char[]\\lab_08.1-char[]\\lab_08.1-char[].cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32BB984A-E867-4A75-A2FB-2CD1505F7597}|lab_08.1-char[]\\lab_08.1-char[].vcxproj|solutionrelative:lab_08.1-char[]\\lab_08.1-char[].cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\lab_8.1-char[]\\UnitTest\\lab_08.1-char[]\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\lab_8.1-char[]\\UnitTest\\lab_08.1-char[]\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T18:20:14.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_08.1-char[].cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\lab_8.1-char[]\\UnitTest\\lab_08.1-char[]\\lab_08.1-char[]\\lab_08.1-char[].cpp",
+              "RelativeDocumentMoniker": "lab_08.1-char[]\\lab_08.1-char[].cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\lab_8.1-char[]\\UnitTest\\lab_08.1-char[]\\lab_08.1-char[]\\lab_08.1-char[].cpp",
+              "RelativeToolTip": "lab_08.1-char[]\\lab_08.1-char[].cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T18:19:49.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
